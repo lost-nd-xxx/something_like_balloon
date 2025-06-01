@@ -1,0 +1,5 @@
+charset,Shift_JIS
+type,balloon
+name,something like CyberGreen
+directory,something_like_cyber_green
+refresh,0
