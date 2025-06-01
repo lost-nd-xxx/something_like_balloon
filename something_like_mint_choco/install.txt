@@ -1,0 +1,5 @@
+charset,UTF-8
+type,balloon
+name,something like MintChoco
+directory,something_like_mint_choco
+refresh,0
