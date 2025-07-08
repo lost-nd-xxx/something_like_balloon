@@ -1,0 +1,5 @@
+charset,UTF-8
+type,balloon
+name,something like DeepOcean
+directory,something_like_deep_ocean
+refresh,0
