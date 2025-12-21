@@ -1,32 +1,13 @@
-# バルーンテンプレート「something like Template」
-something likeシリーズと同サイズのバルーンの統合前psdと、
-位置調整など設定済みのtxtのセットです。
-バルーンとして使うこともできます。
+バルーン「something like XmasTree」
+暗緑背景に黄色文字、星の飾りのついたバルーンです。
 
-## 要するに
-* ユーザとしての利用の際、気にすべきことは特にありません。
-* このファイル群に対しての加工・再配布に制限は設けません。
-  * 再配布の際、このテンプレート自体の作者名や配布元を記載する義務はありません。
-    * 記載するのも記載しないのも自由です。
+フォントにBIZ UDゴシックを指定しています。
+無ければＭＳ ゴシックが使われます。
+BIZ UDゴシック配布先：
+https://fonts.google.com/specimen/BIZ+UDGothic
 
-## 画像中の文字について
-画像中の文字は既存のフォントを画像化したものではありません。
-ろすえんの描いたものです。
-
-## 指定フォントについて
-* BIZ UDゴシックを指定しています（同梱はしていません）
-  * インストールされていなければＭＳ ゴシックで表示されます。
-    * ＭＳ ゴシックもない場合、機器の環境によって表示が異なります。
-* BIZ UDゴシックは下記URLから入手できます
-  * https://fonts.google.com/specimen/BIZ+UDGothic
-
-## ライセンス
-このファイル群は「CC0 1.0 Universal」ライセンスで公開します。
-* ライセンス全文
-  * https://creativecommons.org/publicdomain/zero/1.0/deed.ja
-
-## 作者情報
-* 作者名
-  * ろすえん(lost_nd_xxx)
-* 連絡先
-  * https://lnx.flop.jp/form/postmail.html
+◆作者情報
+作者名：
+ろすえん(lost_nd_xxx)
+連絡先：
+https://lnx.flop.jp/form/postmail.html
