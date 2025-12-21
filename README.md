@@ -17,6 +17,7 @@
 * [something like MintChoco](../../releases/latest/download/something_like_mint_choco.nar)
 * [something like Monokai](../../releases/latest/download/something_like_monokai.nar)
 * [something like StarryNight](../../releases/latest/download/something_like_starry_night.nar)
+* [something like XmasTree](../../releases/latest/download/something_like_xmas_tree.nar)
 
 
 ## テンプレート
