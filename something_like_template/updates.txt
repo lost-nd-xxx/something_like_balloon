@@ -25,7 +25,7 @@ file,online3.png9c82306de8a9e4cae49b25b97fc39b91size=200date=2025-06-01T12:07
 file,online4.png3d16e909d81ba0d14232d6d7ae164b0dsize=200date=2025-06-01T11:27:15
 file,readme.txt804dfdf2e637db19f587928019b16899size=1532date=2025-06-01T11:46:52
 file,sstp.pngab0eb83ada21a55c955108a214c863c1size=175date=2025-06-01T11:27:15
-file,thumbnail.png742fe8cfefca32d5efa0da0d7325ee8asize=4697date=2025-06-01T12:44:26
+file,thumbnail.pngc4fbf772d70e98c145809e7257747e55size=908date=2026-05-08T10:57:02
 file,psd/arrow0.psd600a72ab83d2ec32a9639841f869ff1dsize=3569date=2025-06-01T11:21:38
 file,psd/arrow1.psdd885b962bb3a5b6c22d54857ef5c0c45size=3561date=2025-06-01T11:20:45
 file,psd/balloonc.psdfcdb6fc8ce2b17f2b9791cbffec81535size=26467date=2025-06-01T11:26:32
